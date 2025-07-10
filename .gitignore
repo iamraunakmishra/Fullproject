@@ -1,0 +1,11 @@
+# Frontend junk
+Frontend/assignment/node_modules/
+Frontend/assignment/dist/
+Frontend/assignment/build/
+Frontend/assignment/.env
+
+# Backend junk
+Backend/venv/
+Backend/__pycache__/
+*.pyc
+
